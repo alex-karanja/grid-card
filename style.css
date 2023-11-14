@@ -93,7 +93,6 @@ span.lighter{
      container{
         display: flex;
         flex-direction: column;
-        max-width: 300px;
     }
 
     .whyUs{
