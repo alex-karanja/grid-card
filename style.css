@@ -90,10 +90,6 @@ span.lighter{
 }
 
 @media (max-width:768px){
-     flex {
-         height: 150vh;
-     } 
-
      container{
         display: flex;
         flex-direction: column;
