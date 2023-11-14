@@ -95,7 +95,7 @@ span.lighter{
         display: flex;
         flex-direction: column;
         max-width: 300px;
-        Height:fit-content;
+        Height: 250vh;
     }
 
     .whyUs{
